@@ -1,5 +1,7 @@
 ### Gachon university AI departemnt
 🌱 I’m currently learning c program and python
+🌱 I will work hard to lear GitHub
+😄 thanks
 <!--
 **leetakdnxk/leetakdnxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
